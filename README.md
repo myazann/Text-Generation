@@ -1,1 +1,1 @@
-# Text-Generation
+This is a project to generate conversations between a group of people. An Encoder-Decoder model is finetuned with the conversations of a Telegram group between friends, with the task of next sentence prediction. There are 5 people in total, and model must first generate the name of the person, then their answer.
